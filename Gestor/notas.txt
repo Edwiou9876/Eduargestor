@@ -1,0 +1,4 @@
+Leer mas sobre pytest 
+Leer mas sobre el modulo platform
+
+en pytest se llama desde la terminal y se escribe -v para que encuentre y haga los test
